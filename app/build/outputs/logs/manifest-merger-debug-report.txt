@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [androidx.databinding:viewbinding:7.1.0-beta05] /Users/sohyeon/.gradle/caches/transforms-3/9c81d03f3c604f86383d4d7a4bd00c63/transformed/viewbinding-7.1.0-beta05/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] /Users/sohyeon/.gradle/caches/transforms-3/155fc50a79ea01e5d99300b047af94da/transformed/play-services-wearable-17.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/a4a88cf8080e08aca8de6bda9704d614/transformed/percentlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/00890eeb0d2f8a53abb41c54e4ba5a8f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear:wear:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/c132869a9c8e47fbca9edb0b2377af3f/transformed/wear-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sohyeon/.gradle/caches/transforms-3/1b293dd8e11f62e3a9c2162c429d14c4/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/83df503075bdd741a2031f764104872f/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/af476bdb9b99bffeda96d660abb4da40/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/904bf8f37e75d0d16094abde9413ba97/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/4ad57c72ad43792c827ec2de2bdd56ff/transformed/play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/sohyeon/.gradle/caches/transforms-3/790034fadbcd573a0206fc697b687935/transformed/play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/56f1a54e286864daedd343ffba843c66/transformed/play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/sohyeon/.gradle/caches/transforms-3/5c2f1f930d854be6cb78512531551aa2/transformed/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/4bd4b85abcddde1ee4c8d91b9f6e67fd/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/6f3dbea44b02fe6dd7f78d164048dc67/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/073322701a126a917705b57a94c403be/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/cdcf6f3bc9ba79100fb23a9cb8b4df3e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/f47f4a7137d50560779e615cfa35b7e6/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/c2c41d1912f1327902e11e9edce39c09/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/89111f329fa8d42fcc65be7ee97d2ac4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/531704551a8f67aee286eb9009cf1639/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/25435165a3b54e2d60b948e96d62dca7/transformed/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/sohyeon/.gradle/caches/transforms-3/eed7f5d5b83f250a71d9bc6f4954bdbf/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/5407951a02fe9c8491e8e7a5a7eecb1b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/fd24204c74552b3c5e9fe8724eaef87e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/b29490d6d5815b089514928c1f435b63/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/3872890eae6a9802d0beed9044bfe3e2/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/e29e52b2d6ca2224825534fd2a6cc0a4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/716bf94b3468b9773e8ec327537492d8/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/16e4e85585690c2371e4bcdd39e02a84/transformed/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/690a799f2b5c4bb1109743dab352651e/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/598a5d1f86af9179da95b62aa0918e80/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/81e400cd67b99e90cef9f4b4896f8970/transformed/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sohyeon/.gradle/caches/transforms-3/6a4ca438eae919b1a303a782f74f3d37/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/b4f1db347cb1c61350bd406fc6346dca/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sohyeon/.gradle/caches/transforms-3/81b28ea817f88c7a56f109eaa4175903/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/d19eb9590abe6bde27a072322a1e9037/transformed/constraintlayout-1.1.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:22-65
+uses-feature#android.hardware.type.watch
+ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:7:19-61
+application
+ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:9:5-37:19
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] /Users/sohyeon/.gradle/caches/transforms-3/155fc50a79ea01e5d99300b047af94da/transformed/play-services-wearable-17.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] /Users/sohyeon/.gradle/caches/transforms-3/155fc50a79ea01e5d99300b047af94da/transformed/play-services-wearable-17.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/4ad57c72ad43792c827ec2de2bdd56ff/transformed/play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/4ad57c72ad43792c827ec2de2bdd56ff/transformed/play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/sohyeon/.gradle/caches/transforms-3/790034fadbcd573a0206fc697b687935/transformed/play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/sohyeon/.gradle/caches/transforms-3/790034fadbcd573a0206fc697b687935/transformed/play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/56f1a54e286864daedd343ffba843c66/transformed/play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/56f1a54e286864daedd343ffba843c66/transformed/play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] /Users/sohyeon/.gradle/caches/transforms-3/eed7f5d5b83f250a71d9bc6f4954bdbf/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/sohyeon/.gradle/caches/transforms-3/eed7f5d5b83f250a71d9bc6f4954bdbf/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/716bf94b3468b9773e8ec327537492d8/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/716bf94b3468b9773e8ec327537492d8/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/d19eb9590abe6bde27a072322a1e9037/transformed/constraintlayout-1.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/d19eb9590abe6bde27a072322a1e9037/transformed/constraintlayout-1.1.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/sohyeon/.gradle/caches/transforms-3/eed7f5d5b83f250a71d9bc6f4954bdbf/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:9-59
+uses-library#com.google.android.wearable
+ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:15:9-17:39
+	android:required
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:23:9-25:36
+	android:value
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:25:13-33
+	android:name
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:24:13-66
+activity#com.example.myapplication.MainActivity
+ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:30:13-45
+	android:exported
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.1.0-beta05] /Users/sohyeon/.gradle/caches/transforms-3/9c81d03f3c604f86383d4d7a4bd00c63/transformed/viewbinding-7.1.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.0-beta05] /Users/sohyeon/.gradle/caches/transforms-3/9c81d03f3c604f86383d4d7a4bd00c63/transformed/viewbinding-7.1.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] /Users/sohyeon/.gradle/caches/transforms-3/155fc50a79ea01e5d99300b047af94da/transformed/play-services-wearable-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] /Users/sohyeon/.gradle/caches/transforms-3/155fc50a79ea01e5d99300b047af94da/transformed/play-services-wearable-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/a4a88cf8080e08aca8de6bda9704d614/transformed/percentlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/a4a88cf8080e08aca8de6bda9704d614/transformed/percentlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/00890eeb0d2f8a53abb41c54e4ba5a8f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/00890eeb0d2f8a53abb41c54e4ba5a8f/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/c132869a9c8e47fbca9edb0b2377af3f/transformed/wear-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/c132869a9c8e47fbca9edb0b2377af3f/transformed/wear-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sohyeon/.gradle/caches/transforms-3/1b293dd8e11f62e3a9c2162c429d14c4/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sohyeon/.gradle/caches/transforms-3/1b293dd8e11f62e3a9c2162c429d14c4/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/83df503075bdd741a2031f764104872f/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/83df503075bdd741a2031f764104872f/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/af476bdb9b99bffeda96d660abb4da40/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/af476bdb9b99bffeda96d660abb4da40/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/904bf8f37e75d0d16094abde9413ba97/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/904bf8f37e75d0d16094abde9413ba97/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/4ad57c72ad43792c827ec2de2bdd56ff/transformed/play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/4ad57c72ad43792c827ec2de2bdd56ff/transformed/play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/sohyeon/.gradle/caches/transforms-3/790034fadbcd573a0206fc697b687935/transformed/play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/sohyeon/.gradle/caches/transforms-3/790034fadbcd573a0206fc697b687935/transformed/play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/56f1a54e286864daedd343ffba843c66/transformed/play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/56f1a54e286864daedd343ffba843c66/transformed/play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/sohyeon/.gradle/caches/transforms-3/5c2f1f930d854be6cb78512531551aa2/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/sohyeon/.gradle/caches/transforms-3/5c2f1f930d854be6cb78512531551aa2/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/4bd4b85abcddde1ee4c8d91b9f6e67fd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/4bd4b85abcddde1ee4c8d91b9f6e67fd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/6f3dbea44b02fe6dd7f78d164048dc67/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/6f3dbea44b02fe6dd7f78d164048dc67/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/073322701a126a917705b57a94c403be/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/073322701a126a917705b57a94c403be/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/cdcf6f3bc9ba79100fb23a9cb8b4df3e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/cdcf6f3bc9ba79100fb23a9cb8b4df3e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/f47f4a7137d50560779e615cfa35b7e6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/f47f4a7137d50560779e615cfa35b7e6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/c2c41d1912f1327902e11e9edce39c09/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/c2c41d1912f1327902e11e9edce39c09/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/89111f329fa8d42fcc65be7ee97d2ac4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/89111f329fa8d42fcc65be7ee97d2ac4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/531704551a8f67aee286eb9009cf1639/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/531704551a8f67aee286eb9009cf1639/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/25435165a3b54e2d60b948e96d62dca7/transformed/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/25435165a3b54e2d60b948e96d62dca7/transformed/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/sohyeon/.gradle/caches/transforms-3/eed7f5d5b83f250a71d9bc6f4954bdbf/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/sohyeon/.gradle/caches/transforms-3/eed7f5d5b83f250a71d9bc6f4954bdbf/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/5407951a02fe9c8491e8e7a5a7eecb1b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/5407951a02fe9c8491e8e7a5a7eecb1b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/fd24204c74552b3c5e9fe8724eaef87e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/fd24204c74552b3c5e9fe8724eaef87e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/b29490d6d5815b089514928c1f435b63/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/b29490d6d5815b089514928c1f435b63/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/3872890eae6a9802d0beed9044bfe3e2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/3872890eae6a9802d0beed9044bfe3e2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/e29e52b2d6ca2224825534fd2a6cc0a4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/e29e52b2d6ca2224825534fd2a6cc0a4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/716bf94b3468b9773e8ec327537492d8/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/716bf94b3468b9773e8ec327537492d8/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/16e4e85585690c2371e4bcdd39e02a84/transformed/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/16e4e85585690c2371e4bcdd39e02a84/transformed/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/690a799f2b5c4bb1109743dab352651e/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/690a799f2b5c4bb1109743dab352651e/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/598a5d1f86af9179da95b62aa0918e80/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/598a5d1f86af9179da95b62aa0918e80/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/81e400cd67b99e90cef9f4b4896f8970/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sohyeon/.gradle/caches/transforms-3/81e400cd67b99e90cef9f4b4896f8970/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sohyeon/.gradle/caches/transforms-3/6a4ca438eae919b1a303a782f74f3d37/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sohyeon/.gradle/caches/transforms-3/6a4ca438eae919b1a303a782f74f3d37/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/b4f1db347cb1c61350bd406fc6346dca/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/sohyeon/.gradle/caches/transforms-3/b4f1db347cb1c61350bd406fc6346dca/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sohyeon/.gradle/caches/transforms-3/81b28ea817f88c7a56f109eaa4175903/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sohyeon/.gradle/caches/transforms-3/81b28ea817f88c7a56f109eaa4175903/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/d19eb9590abe6bde27a072322a1e9037/transformed/constraintlayout-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/sohyeon/.gradle/caches/transforms-3/d19eb9590abe6bde27a072322a1e9037/transformed/constraintlayout-1.1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohyeon/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/4ad57c72ad43792c827ec2de2bdd56ff/transformed/play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/4ad57c72ad43792c827ec2de2bdd56ff/transformed/play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/4ad57c72ad43792c827ec2de2bdd56ff/transformed/play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/4ad57c72ad43792c827ec2de2bdd56ff/transformed/play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/56f1a54e286864daedd343ffba843c66/transformed/play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/56f1a54e286864daedd343ffba843c66/transformed/play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/sohyeon/.gradle/caches/transforms-3/56f1a54e286864daedd343ffba843c66/transformed/play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
